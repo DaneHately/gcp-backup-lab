@@ -1,6 +1,6 @@
 
 # my-ace-backup: Google Cloud Storage Backup Solution
-*By IronKube Solutions*
+*By Ember Cloud LLC*
 
 ## Overview
 Welcome to the `my-ace-backup` project, one of my first projects, a Google Cloud Platform (GCP) lab demonstrating cloud storage automation, built by **IronKube Solutions**, a freelance cloud engineering consultancy specializing in Terraform and Kubernetes. This project showcases skills in GCP Cloud Storage, Cloud Functions, and Pub/Sub, developed as part of preparation for the Google Associate Cloud Engineer (ACE) certification.
@@ -22,7 +22,7 @@ Welcome to the `my-ace-backup` project, one of my first projects, a Google Cloud
 - Gained hands-on experience with serverless automation, a valuable skill for cloud infrastructure projects.
 
 ## About IronKube Solutions
-**IronKube Solutions** provides expert cloud infrastructure services, focusing on Terraform, Kubernetes, and GCP. With certifications like Google ACE (in progress), AWS Solutions Architect Associate, and Certified Kubernetes Administrator (planned), we deliver reliable, scalable solutions for modern DevOps needs. Contact us at [ironkubesolutions.com](https://ironkubesolutions.com) (coming soon).
+**IronKube Solutions** provides expert cloud infrastructure services, focusing on Terraform, Kubernetes, and GCP. With certifications like Google ACE, AWS Solutions Architect Associate, and Certified Kubernetes Administrator (planned), we deliver reliable, scalable solutions for modern DevOps needs. Contact us at contact@embercloud.cc
 
 ## Next Steps
 - Explore the code in this [GitHub repo](https://github.com/DaneHately/gcp-ace-backup-lab).
